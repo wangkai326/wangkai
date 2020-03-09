@@ -1,0 +1,2 @@
+def wankai():
+    print("kaikai")
